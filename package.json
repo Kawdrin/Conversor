@@ -4,7 +4,7 @@
   "description": "Conversor de valores em extenso",
   "main": "src/app.js",
   "scripts": {
-    "nodemon": "nodemon app.js"
+    "nodemon": "nodemon src/app.js"
   },
   "author": "",
   "license": "ISC",
